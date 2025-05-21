@@ -69,12 +69,13 @@ This project is a web application built with Vue.js 3 (using Vue CLI) for managi
 ### 1. Person List (Home Page)
 ![image](https://github.com/user-attachments/assets/ae9dd041-93da-4851-b75d-8c3bc5177808)
 
-*Shows the main view with all persons listed, including their photo, BMI, and action buttons.*
-
 ### 2. BMI Statistics Page
 ![image](https://github.com/user-attachments/assets/9d6510f5-8294-4d54-8578-d7c9725e0c95)
 
-*Shows the BMI statistics, including a textual breakdown and a Chart.js pie chart.*
+### 3. Add Person Page
+![image](https://github.com/user-attachments/assets/ad259fdc-4860-467b-98c2-315977e68d10)
+
+
 
 ---
 
