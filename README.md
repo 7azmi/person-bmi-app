@@ -44,7 +44,7 @@ This project is a web application built with Vue.js 3 (using Vue CLI) for managi
 ### Installation & Running Locally
 1.  **Clone the repository (or download the zip if not using Git):**
     ```bash
-    # git clone <repository-url>
+    # git clone https://github.com/7azmi/person-bmi-app.git
     # cd person-bmi-app
     ```
 2.  **Install project dependencies:**
@@ -68,22 +68,12 @@ This project is a web application built with Vue.js 3 (using Vue CLI) for managi
 
 ### 1. Person List (Home Page)
 ![image](https://github.com/user-attachments/assets/ae9dd041-93da-4851-b75d-8c3bc5177808)
+
 *Shows the main view with all persons listed, including their photo, BMI, and action buttons.*
 
-### 2. Add Person Form
-![Add Person Form Screenshot Placeholder](https://via.placeholder.com/800x450.png/E8E8E8/969696?text=Screenshot+of+Add+Person+Form)
-*Shows the form for adding a new person with fields for name, year born, weight, height, and photo URL.*
-
-### 3. View Person Details
-![View Person Details Screenshot Placeholder](https://via.placeholder.com/800x450.png/E8E8E8/969696?text=Screenshot+of+View+Person+Details)
-*Shows the detailed view of a single person, including a BMI category bar.*
-
-### 4. Edit Person Form
-![Edit Person Form Screenshot Placeholder](https://via.placeholder.com/800x450.png/E8E8E8/969696?text=Screenshot+of+Edit+Person+Form)
-*Shows the form pre-filled with an existing person's data for editing.*
-
-### 5. BMI Statistics Page
+### 2. BMI Statistics Page
 ![image](https://github.com/user-attachments/assets/9d6510f5-8294-4d54-8578-d7c9725e0c95)
+
 *Shows the BMI statistics, including a textual breakdown and a Chart.js pie chart.*
 
 ---
