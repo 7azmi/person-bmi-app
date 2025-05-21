@@ -1,7 +1,9 @@
+// .eslintrc.js
 module.exports = {
   root: true,
   env: {
-    node: true
+    node: true,
+    'vue/setup-compiler-macros': true // <--- ADDED THIS LINE
   },
   'extends': [
     'plugin:vue/vue3-essential',

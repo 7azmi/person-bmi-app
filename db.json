@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "id": "a0ea",
+      "name": "amed",
+      "yob": 2001,
+      "weight": 65,
+      "height": 163,
+      "photoUrl": "https://cdn.prod.website-files.com/62d84e447b4f9e7263d31e94/6399a4d27711a5ad2c9bf5cd_ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+      "age": 24,
+      "bmi": "24.46"
+    },
+    {
+      "id": "1bc7",
+      "name": "noice",
+      "yob": 2000,
+      "age": 25,
+      "weight": 180,
+      "height": 190,
+      "bmi": "49.86",
+      "photoUrl": "https://i.pravatar.cc/150?u=1747792481633"
+    },
+    {
+      "id": "723b",
+      "name": "Walid",
+      "yob": 1998,
+      "age": 27,
+      "weight": 170,
+      "height": 60,
+      "bmi": "472.22",
+      "photoUrl": "https://i.pravatar.cc/150?u=1747792986079"
+    },
+    {
+      "id": "ef3b",
+      "name": "Anas",
+      "yob": 2003,
+      "age": 22,
+      "weight": 86,
+      "height": 168,
+      "bmi": "30.47",
+      "photoUrl": "https://i.pravatar.cc/150?u=1747793013815"
+    }
+  ]
+}
